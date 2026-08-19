@@ -1,2 +1,2 @@
 # lab-python
-Repository for ongoing experiments in Python.
+repository for ongoing experiments in python
